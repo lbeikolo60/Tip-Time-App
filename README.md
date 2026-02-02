@@ -12,7 +12,8 @@ There is **no calculate button** — the tip updates immediately whenever the am
 - Clean and easy-to-use interface
 - light/dark mode
 - changeable tip amount of presets
-- 
+- tip addition feature (£1, £5, £10, £25, £50)
+- percentage addition (10%, 15% and 20%)
 
 ## How It Works
 
@@ -31,5 +32,5 @@ There is **no calculate button** — the tip updates immediately whenever the am
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tip-time.git
+ 
 
