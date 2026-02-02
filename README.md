@@ -12,7 +12,7 @@ There is **no calculate button** — the tip updates immediately whenever the am
 - Clean and easy-to-use interface
 - light/dark mode
 - changeable tip amount of presets
-- tip addition feature (£1, £5, £10, £25, £50)
+- Quick tip option (£1, £5, £10, £25, £50)
 - percentage addition (10%, 15% and 20%)
 
 ## How It Works
@@ -23,6 +23,7 @@ There is **no calculate button** — the tip updates immediately whenever the am
 4. change mode to light/dark (optional)
 5. Change tip by clicking on drop down box (optional)
 6. choose percentage (optional)
+7. Choose quick tip option
 
 
 ## Tech Stack
