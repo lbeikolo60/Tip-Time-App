@@ -20,13 +20,15 @@ There is **no calculate button** — the tip updates immediately whenever the am
 1. Type a bill amount into the text field  
 2. The app automatically calculates the tip  
 3. The result updates in real time
-(optional)
-4. change mode to light/dark
+4. change mode to light/dark (optional)
+5. Change tip by clicking on drop down box (optional)
+6. choose percentage (optional)
+
 
 ## Tech Stack
 
-- Language: (add your language here, e.g. Kotlin / Java / JavaScript)
-- Platform: (Android / Web / etc.)
+- Kotlin
+- Platform: Android Studio
 
 ## Getting Started
 
